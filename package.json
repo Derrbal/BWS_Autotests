@@ -1,0 +1,14 @@
+{
+  "name": "bws-autotests",
+  "version": "1.0.0",
+  "description": "Autotests for BWS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derrbal/BWS_Autotests.git"
+  },
+  "author": "Bohdan Derbal",
+  "license": "MIT"
+}
