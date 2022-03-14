@@ -6,12 +6,12 @@
         "types": [
             "node",
             
-            "webdriverio/async",
+            "webdriverio/sync",
             "@wdio/mocha-framework",
             "expect-webdriverio"
         ],
         "module": "commonjs",
-        "target": "ES6",
-        
+        "target": "es6",
+    
     }
 }
